@@ -8,7 +8,7 @@ Tools are important for web developers to be able to have the means to maintain 
 
 ## A11Y COMPLIANCE PLATFORM
 
-The [A11Y Compliance Platform](https://www.boia.org/w3c-tools-services-a11y) is offered through the Bureau of Internet Accessibility. The platform gives tools, reports and services to help companies and organizations maintain and defend the web site’s accessibility and integrity.
+The [A11Y Compliance Platform](https://www.boia.org/w3c-tools-services-a11y) is offered through the Bureau of Internet Accessibility. The platform gives tools, reports and services to help companies and organizations maintain and defend the website’s accessibility and integrity.
 
 Link: [https://www.boia.org/w3c-tools-services-a11y](https://www.boia.org/w3c-tools-services-a11y)
 
@@ -40,7 +40,7 @@ Link: [https://www.deque.com/axe/](https://www.deque.com/axe/)
 
 ## Cauldron
 
-[Cauldron from deque](https://pattern-library.dequelabs.com/) is a fullyaccessible HTML, CSS, and Javascript front-end framework for creating web and mobile applications. Cauldron will not only help shortcut decisions and development time designing, creating and testing core components for your application but will be consistent with the branding, look and feel of all new Deque applications. Cauldron is designed to be as easy to use as it is elegant and modern. Cauldron is abstracted out into simple classes and tags, making it as flexible as HTML/CSS while still being behaviorally and aesthetically prescriptive. PUG tags are also supported and REACT is coming soon!
+[Cauldron from deque](https://pattern-library.dequelabs.com/) is a fully accessible HTML, CSS, and Javascript front-end framework for creating web and mobile applications. Cauldron will not only help shortcut decisions and development time designing, creating and testing core components for your application but will be consistent with the branding, look and feel of all new Deque applications. Cauldron is designed to be as easy to use as it is elegant and modern. Cauldron is abstracted out into simple classes and tags, making it as flexible as HTML/CSS while still being behaviorally and aesthetically prescriptive. PUG tags are also supported and REACT is coming soon!
 
 Link: [https://pattern-library.dequelabs.com](https://pattern-library.dequelabs.com)
 
@@ -48,7 +48,7 @@ Link: [https://pattern-library.dequelabs.com](https://pattern-library.dequelabs.
 
 ## Color.review
 
-[Color.review](https://color.review/) provide a new interactive way to explore, test & finds colors that are accessible. With unique visual guidelines, a user of the site can quickly identify and tweak their colors to be functional. The tool also interactively changes its colors so that the user in real-time simultaneously can test the visual and accessible aspect.
+[Color.review](https://color.review/) provides a new interactive way to explore, test & finds colors that are accessible. With unique visual guidelines, a user of the site can quickly identify and tweak their colors to be functional. The tool also interactively changes its colors so that the user in real-time simultaneously can test the visual and accessible aspect.
 
 Link: [https://color.review/](https://color.review/)
 
